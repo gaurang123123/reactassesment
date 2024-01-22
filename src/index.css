@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+row{
+  align-items: center;
+}
+ .butt{
+  padding: 10px 20px;
+  margin: 5%;
+ }
